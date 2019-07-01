@@ -1,0 +1,41 @@
+body{
+	
+	background:#3f4754;
+	
+}
+
+.nav{
+padding:25px;
+margin-left:-8px;
+margin-top:-8px;
+  
+background-color:blue;
+	
+}
+img{
+	margin:-20px;
+}
+
+div h3{
+	
+	color:white;
+	font-size:20px;
+}
+
+.bha{
+	background-color:#becee8;
+	padding:20px;
+	margin:100px;
+	width:250px;
+	height:150px;
+	border-radius: 25px;
+	border: 1px solid black;
+}
+
+.bha .sea{
+	border-radius: 25px;
+	border: 1px solid black;
+}
+.bha .lab{
+	font-size:20px;
+}
